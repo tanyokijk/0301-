@@ -65,7 +65,7 @@
             label1.Name = "label1";
             label1.Size = new Size(408, 42);
             label1.TabIndex = 2;
-            label1.Text = "Ця програма виводить 9 звуків частотою від 200 до 2000 герц\r\n і тривалістю від 500 до 1000 мілісекунд";
+            label1.Text = "Ця програма виводить 9 звуків частотою до 2000 герц\r\n і тривалістю від 500 до 1000 мілісекунд";
             label1.TextAlign = ContentAlignment.MiddleCenter;
             label1.Click += label1_Click;
             // 
